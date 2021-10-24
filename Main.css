@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans");
+
+header{
+    height: 200px;
+    text-align: center;
+}
+nav{
+    padding-top: 14px;
+    padding-bottom: 14px;
+    background-color: rgba(216, 209, 209, 0.11);
+    text-align: center;
+    width: 2800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+main{
+    height: 800px;
+    text-align: center;
+}
+footer{
+    height: 100px;
+}
+.Container{
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+        background-image:  url(images/pexels-mnm-zameer-3308588.jpg);
+}
+h1{
+    font-size: 80px;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 200px;
+}
+p{
+    font-size: 40px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+h2{
+    font-size: 150px;
+    color:white;
+
+    text-decoration:none;
+    
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    padding-bottom: 50px;
+}
+h3{
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.top-nav{
+    overflow:hidden;
+}
+.active{
+    background-color: brown;
+}
+.top-nav a:hover:not(.active){
+    color: tomato;
+}
+.Bottom{
+    padding-top: 110px;
+    font-size: 30px;
+}
+.Home{   
+        height: 1000px;
+        text-align: center;
+}
+h3{
+    padding-top: 400px;
+}
+.SelectedPage{
+    text-decoration: underline;
+    color: tomato;
+}
