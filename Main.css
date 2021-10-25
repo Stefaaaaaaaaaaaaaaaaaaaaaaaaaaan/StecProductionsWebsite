@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Noto+Sans");
 
 header{
-    height: 200px;
+    height: 300px;
     text-align: center;
 }
 nav{
@@ -9,7 +9,7 @@ nav{
     padding-bottom: 14px;
     background-color: rgba(216, 209, 209, 0.11);
     text-align: center;
-    width: 2000px;
+    width: 1500px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -75,7 +75,7 @@ nav a {
     color: tomato;
 }
 .Bottom{
-    padding-top: 110px;
+    padding-top: 600px;
     font-size: 30px;
 }
 .Home{   
