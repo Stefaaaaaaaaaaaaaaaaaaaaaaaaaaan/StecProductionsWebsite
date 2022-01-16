@@ -89,3 +89,8 @@ h3{
     text-decoration: underline;
     color: tomato;
 }
+.About{
+    font-size: 40px;
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
