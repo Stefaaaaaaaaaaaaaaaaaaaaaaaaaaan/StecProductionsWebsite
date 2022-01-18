@@ -47,6 +47,28 @@ footer{
     margin: auto;
     margin-top: 200px;
 }
+.Box4{
+    background-color: rgba(216, 209, 209, 0.11);
+    width: 1500px;
+    text-align: center;
+    margin: auto;
+}
+.Box5{
+    background-color: rgba(216, 209, 209, 0.11);
+    width: 1500px;
+    text-align: center;
+    margin: auto;
+ 
+     margin-top: 400px;
+}
+.Box6{
+        background-color: rgba(216, 209, 209, 0.11);
+        width: 1500px;
+        text-align: center;
+        margin: auto;
+        margin-top: 400px;
+        height: 100px;
+    }  
 body{
         background-image:  url(images/pic.jpg);
 }
@@ -121,4 +143,13 @@ h3{
     font-size: 40px;
     color: azure;
     font-family: Arial, Helvetica, sans-serif;
+}
+.Überschrift{
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+}
+.Kaufen{
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+    padding-top: 50px;
 }
